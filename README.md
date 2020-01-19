@@ -1,2 +1,2 @@
 # beta2
-beta
+beta2
